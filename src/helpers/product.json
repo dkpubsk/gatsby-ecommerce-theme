@@ -111,5 +111,12 @@
         "alt": "relaxed t shirt woman",
         "image": "/products/woman1.jpeg",
         "tags": ["woman"]
+    },
+    {
+        "name": "Relaxed-fit graphic T-shirt - Woo hoo this works!",
+        "price": 999,
+        "alt": "relaxed t shirt woman",
+        "image": "/products/woman1.jpeg",
+        "tags": ["woman"]
     }
   ]
